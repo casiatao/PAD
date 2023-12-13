@@ -1,0 +1,6 @@
+numpy==1.21.6
+opencv_python==4.7.0.72
+Pillow==9.5.0
+Pillow==10.1.0
+selectivesearch==0.4
+timm==0.3.2
