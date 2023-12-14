@@ -4,7 +4,7 @@
 
 This repository contains the official PyTorch implementation of the following paper:
 
-> [**PAD：Self-Supervised Pre-Training with Patchwise-Scale Adapter for Infrared Images**](),  
+> [**PAD：Self-Supervised Pre-Training with Patchwise-Scale Adapter for Infrared Images**](https://arxiv.org/abs/2312.08192),  
 > Tao Zhang, Kun Ding, Jinyong Wen, Yu Xiong, Zeyu Zhang, Shiming Xiang, Chunhong Pan  
 
 <img src="readme.assets/image-20231213204910096.png" alt="image-20231213204910096" style="zoom: 33%;" />
@@ -33,10 +33,17 @@ Please refer to [DETECTION.md](DETECTION.md) for the object detection instructio
 
 ## Citation
 
-If you find this repository helpful, please consider giving a star and citing:
+If you find this repository helpful, please consider giving it a star and citing:
 
 ```bibtex
-
+@misc{zhang2023pad,
+      title={PAD: Self-Supervised Pre-Training with Patchwise-Scale Adapter for Infrared Images}, 
+      author={Tao Zhang and Kun Ding and Jinyong Wen and Yu Xiong and Zeyu Zhang and Shiming Xiang and Chunhong Pan},
+      year={2023},
+      eprint={2312.08192},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 
