@@ -7,9 +7,9 @@ This repository contains the official PyTorch implementation of the following pa
 > [**PAD：Self-Supervised Pre-Training with Patchwise-Scale Adapter for Infrared Images**](https://arxiv.org/abs/2312.08192),  
 > Tao Zhang, Kun Ding, Jinyong Wen, Yu Xiong, Zeyu Zhang, Shiming Xiang, Chunhong Pan  
 
-<img src="readme.assets/image-20231213204910096.png" alt="image-20231213204910096" style="zoom: 33%;" />
+<img src="paradigm.png" alt="paradigm" style="zoom: 33%;" />
 
-![image-20231213204948449](readme.assets/image-20231213204948449.png)
+![architecture](architecture.png)
 
 ## Installation
 
