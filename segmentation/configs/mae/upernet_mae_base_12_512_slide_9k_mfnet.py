@@ -25,12 +25,12 @@ model = dict(
     ),
     decode_head=dict(
         in_channels=[768, 768, 768, 768],
-        num_classes=21,
+        num_classes=9,
         channels=768,
     ),
     auxiliary_head=dict(
         in_channels=768,
-        num_classes=21,
+        num_classes=9,
     ), 
     test_cfg = dict(mode='slide', crop_size=crop_size, stride=(341, 341)) 
     
